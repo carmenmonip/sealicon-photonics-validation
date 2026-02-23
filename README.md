@@ -23,5 +23,4 @@ For deep technical due diligence or to request access to the Secure Data Room, c
 *Figure 1: Adjoint-optimized waveguide showing minimal scattering and high mode-matching.*
 
 ![Performance Benchmark](performance_benchmark.png)
-*Figure 2: Efficiency comparison against standard industry geometries.*
-# sealicon-photonics-validation
+ *Figure 2: Efficiency comparison against standard industry geometries.*
